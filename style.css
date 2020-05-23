@@ -1,0 +1,66 @@
+body{
+margin: 0px;
+padding: 0px;
+}
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.header{
+	background-size: 100% 100%;
+	background-color: #4c5eab;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.img_block img{
+	margin-top: 100px;
+	margin-left: 100px;
+	margin-right: 50px;
+	width: 100px;
+	height: 100px;
+	border-radius: 50px;
+	float: left;
+}
+.name_LeftText{
+	color: #fff;
+	font-family: 'Montserrat-Bold';
+	font-size: 30px;
+	margin-top: 100px;
+
+}
+.prof_LeftText{
+	color: #fff;
+	font-size: 30px;
+	font-family: 'OpenSans-Semibold';
+}
+.prof_LeftText span {
+	text-transform: uppercase;
+}
+.block_icons{
+	display: flex;
+	justify-content: flex-end;
+	margin-top: 100px;
+}
+.mark svg{
+	float: left;
+}
+.earth svg{
+	float: left;
+	margin-right: 40px;
+}
+.phone svg{
+	float: left;
+	margin-right: 40px;
+}
+.text_mail{
+	color: #fff;
+	font-size: 15px;
+	font-family: 'OpenSans-Semibold';
+
+}
+.text_phone{
+	color: #fff;
+	font-size: 15px;
+	font-family: 'OpenSans-Semibold';
+
+}
